@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FBYIDCardRecognition-Android.iml" filepath="$PROJECT_DIR$/FBYIDCardRecognition-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OcrDemo.iml" filepath="$PROJECT_DIR$/OcrDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocr_ui/ocr_ui.iml" filepath="$PROJECT_DIR$/ocr_ui/ocr_ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocrdemo/ocrdemo.iml" filepath="$PROJECT_DIR$/ocrdemo/ocrdemo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/hu/Downloads/OcrDemo/ocr_ui/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/hu/.android/build-cache/17034a3440f349d064465adf12cd8c10b8f6899d/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/hu/Downloads/OcrDemo/ocr_ui/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/hu/.android/build-cache/17034a3440f349d064465adf12cd8c10b8f6899d/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/hu/Downloads/OcrDemo/ocr_ui/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/hu/.android/build-cache/17034a3440f349d064465adf12cd8c10b8f6899d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/hu/Downloads/OcrDemo/ocr_ui/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/hu/.android/build-cache/17034a3440f349d064465adf12cd8c10b8f6899d/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/hu/Downloads/FBYIDCardRecognition-Android-master/ocr_ui/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/hu/.android/build-cache/17034a3440f349d064465adf12cd8c10b8f6899d/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/hu/Downloads/FBYIDCardRecognition-Android-master/ocr_ui/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/hu/.android/build-cache/17034a3440f349d064465adf12cd8c10b8f6899d/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/hu/Downloads/FBYIDCardRecognition-Android-master/ocr_ui/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/hu/.android/build-cache/17034a3440f349d064465adf12cd8c10b8f6899d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/hu/Downloads/FBYIDCardRecognition-Android-master/ocr_ui/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/hu/.android/build-cache/17034a3440f349d064465adf12cd8c10b8f6899d/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

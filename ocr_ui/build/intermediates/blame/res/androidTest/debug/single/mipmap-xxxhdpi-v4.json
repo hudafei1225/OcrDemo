@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hu/Downloads/FBYIDCardRecognition-Android-master/ocr_ui/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/hu/Downloads/FBYIDCardRecognition-Android-master/ocr_ui/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hu/Downloads/OcrDemo/ocr_ui/build/intermediates/res/merged/androidTest/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/hu/Downloads/OcrDemo/ocr_ui/build/intermediates/bundles/debug/res/mipmap-xxxhdpi-v4/ic_launcher.png"
+    }
+]
