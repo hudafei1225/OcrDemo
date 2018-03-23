@@ -111,4 +111,5 @@ CameraActivity是上面依赖的UI里面的界面
 完毕。
 
 如果有不解之处，或者不同见解，欢迎分享。
+https://www.jianshu.com/p/75f0a9cfcfd3
 
